@@ -64,9 +64,9 @@
 
 📧 Email: pragatikgurav@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/pragatigurav
+💼 LinkedIn: www.linkedin.com/in/pragatikgurav
 
-🐱 GitHub: https://github.com/pragatigurav-26
+🐱 GitHub: https://github.com/pragatikgurav
 
 ---
 
