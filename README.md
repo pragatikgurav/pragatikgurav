@@ -1,134 +1,156 @@
-Create a stunning and professional GitHub Profile README for a 2026 BE Computer Science graduate who is a Java Full Stack Developer and MERN Stack Developer.
+<div align="center">
 
-The design should look modern, premium, and attractive for recruiters with a clean layout.
+# Hi 👋, I'm Pragati Gurav
 
-Include the following sections:
+### 🎓 BE Student (2026) | 💻 Java Full Stack Developer 
 
-✨ Hero Section
-- Animated typing banner
-- Professional greeting
-- Short introduction
-- Modern badges
-- Coding-themed banner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Passionate+Web+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 
-👩‍💻 About Me
-- Name: Pragati
-- 2026 BE Computer Science Graduate
-- Java Full Stack Developer
-- MERN Stack Developer
-- Passionate about Web Development
-- Learning Spring Boot, React, Node.js, AI
-- Looking for Full-Time Software Engineer opportunities
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge" />
+</p>
 
-🛠 Tech Stack
-Frontend:
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Bootstrap
-- Tailwind CSS
+</div>
 
-Backend:
-- Java
-- Spring Boot
-- Node.js
-- Express.js
+---
 
-Database:
-- MySQL
-- MongoDB
+# 👨‍💻 About Me
 
-Tools:
-- Git
-- GitHub
-- VS Code
-- Postman
-- IntelliJ IDEA
+- 🎓 BE Student (Graduating 2026)
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Boot, React.js & System Design
+- 🚀 Building Full Stack Web Applications
+- 🤝 Interested in Open Source Contributions
+- 📚 Passionate about Problem Solving
+- ⚡ Love creating beautiful UI and scalable backend systems
 
-Cloud:
-- Vercel
-- Netlify
+---
 
-📊 GitHub Stats
-- GitHub Stats Card
-- GitHub Streak
-- Top Languages
-- Contribution Graph
-- Trophy Section
+# 🛠️ Tech Stack
 
-🚀 Featured Projects
-Create beautiful cards for:
+### 💻 Languages
 
-• TaskBuddy
-• Weather App
-• Portfolio Website
-• Student Management System
-• E-Commerce Website
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
 
-Each project should include:
-- Description
-- Tech Stack
-- Live Demo Button
-- Source Code Button
+### 🌐 Frontend
 
-🏆 Achievements
-- Java Developer
-- MERN Stack Projects
-- REST API Development
-- Responsive UI
-- Authentication
-- CRUD Applications
-- Git & GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
 
-📚 Currently Learning
-- Spring Security
-- Microservices
-- Docker
-- Kubernetes
-- AWS
-- AI Integration
+### ⚙️ Backend
 
-💼 Career Objective
-Write a professional paragraph explaining enthusiasm for software engineering, solving real-world problems, teamwork, continuous learning, and building scalable applications.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
-🌐 Connect With Me
-Include stylish social icons for:
-- LinkedIn
-- GitHub
-- Gmail
-- Portfolio
-- LeetCode
-- HackerRank
+### 🗄️ Database
 
-📈 Profile Views
-Include:
-- Visitor Counter
-- Followers Badge
-- Stars Badge
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-🎯 Fun Fact
-Add a fun coding-related quote.
+### ☁️ Tools
 
-💡 Quote of the Day
-Include an inspiring software engineering quote.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+</p>
 
-🎨 Design Requirements
-- Center everything
-- Use colorful shields.io badges
-- Use SVG animations
-- Add GIFs related to coding
-- Use collapsible sections
-- Glassmorphism style
-- Gradient headers
-- Neon color theme
-- Professional spacing
-- Responsive Markdown
-- Premium GitHub profile style
-- Dark theme compatible
-- Attractive emojis
-- Proper alignment
-- Modern fonts
-- Clean formatting
+---
 
-The README should be over 350 lines long, recruiter-friendly, ATS-friendly, visually stunning, and ready to paste directly into GitHub.
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/pragatikgurav">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/pragatikgurav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="pragatikgurav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://portfolio-link.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Spring Boot
+- ⚛️ React.js
+- 🟢 Node.js
+- 🍃 MongoDB
+- ☁️ AWS Basics
+- 🐳 Docker
+- 📐 System Design
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Don't forget to ⭐ my repositories if you like them!**
+
+</div>
