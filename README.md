@@ -1,244 +1,134 @@
-Create a GitHub Profile README that looks exactly like a professional GitHub profile page.
+Create a stunning and professional GitHub Profile README for a 2026 BE Computer Science graduate who is a Java Full Stack Developer and MERN Stack Developer.
 
-The layout should closely match the screenshot.
+The design should look modern, premium, and attractive for recruiters with a clean layout.
 
-──────────────────────────────────────────────
+Include the following sections:
 
-LEFT SIDE
+✨ Hero Section
+- Animated typing banner
+- Professional greeting
+- Short introduction
+- Modern badges
+- Coding-themed banner
 
-• Circular Profile Photo
-• Full Name
-• GitHub Username
-• Follow Button
-• Followers
-• Following
-• Achievements Badge
+👩‍💻 About Me
+- Name: Pragati
+- 2026 BE Computer Science Graduate
+- Java Full Stack Developer
+- MERN Stack Developer
+- Passionate about Web Development
+- Learning Spring Boot, React, Node.js, AI
+- Looking for Full-Time Software Engineer opportunities
 
-──────────────────────────────────────────────
-
-RIGHT SIDE
-
-Create one large bordered box with the following sections.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👋 About Me
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Write 4 bullet points with emojis.
-
-Example:
-
-👩‍💻 MERN Stack & Java Full Stack Developer passionate about building scalable web applications.
-
-🎓 Bachelor of Engineering (Computer Science) | 2026 Graduate.
-
-💡 Skilled in React, Java, Spring Boot, Node.js, MongoDB and MySQL.
-
-🚀 Currently learning AI, Spring Security and modern backend technologies.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌐 Socials
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Create colorful badge buttons for
-
-Instagram
-
-LinkedIn
-
-GitHub
-
-Portfolio
-
-Gmail
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🛠 Tech Stack
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Frontend:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- Tailwind CSS
 
-Display colorful shields.io badges exactly like a professional GitHub profile.
+Backend:
+- Java
+- Spring Boot
+- Node.js
+- Express.js
 
-Frontend
+Database:
+- MySQL
+- MongoDB
 
-HTML5
+Tools:
+- Git
+- GitHub
+- VS Code
+- Postman
+- IntelliJ IDEA
 
-CSS3
+Cloud:
+- Vercel
+- Netlify
 
-JavaScript
-
-React
-
-Bootstrap
-
-Tailwind CSS
-
-Backend
-
-Java
-
-Spring Boot
-
-Node.js
-
-Express.js
-
-Database
-
-MySQL
-
-MongoDB
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Postman
-
-IntelliJ IDEA
-
-Deployment
-
-Vercel
-
-Netlify
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📊 GitHub Stats
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- GitHub Stats Card
+- GitHub Streak
+- Top Languages
+- Contribution Graph
+- Trophy Section
 
-Display
+🚀 Featured Projects
+Create beautiful cards for:
 
-GitHub Stats
+• TaskBuddy
+• Weather App
+• Portfolio Website
+• Student Management System
+• E-Commerce Website
 
-GitHub Streak
+Each project should include:
+- Description
+- Tech Stack
+- Live Demo Button
+- Source Code Button
 
-Most Used Languages
+🏆 Achievements
+- Java Developer
+- MERN Stack Projects
+- REST API Development
+- Responsive UI
+- Authentication
+- CRUD Applications
+- Git & GitHub
 
-inside the bordered box.
+📚 Currently Learning
+- Spring Security
+- Microservices
+- Docker
+- Kubernetes
+- AWS
+- AI Integration
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Career Objective
+Write a professional paragraph explaining enthusiasm for software engineering, solving real-world problems, teamwork, continuous learning, and building scalable applications.
 
-Below the box create
-
-Popular repositories
-
-Display six repository cards exactly like GitHub.
-
-Project 1
-
-TaskBuddy
-
-Project 2
-
-Weather App
-
-Project 3
-
-Portfolio Website
-
-Project 4
-
-Student Management System
-
-Project 5
-
-Bank Management System
-
-Project 6
-
-AI Chatbot
-
-Each repository card should show
-
-Repository Name
-
-Short Description
-
-Language
-
-Stars
-
-Forks
-
-Public Badge
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Below that display
-
-GitHub Contribution Calendar
-
-using the standard GitHub green contribution graph.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Below that display
-
-Contribution Activity
-
-showing
-
-Recent commits
-
-Repositories contributed to
-
-Timeline
-
-Exactly like the GitHub profile page.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Design Requirements
-
-Match GitHub Dark Theme.
-
-Use bordered cards.
-
-Minimal design.
-
-Professional spacing.
-
-GitHub-like fonts.
-
-Small colorful badges.
-
-Simple emojis.
-
-No fancy gradients.
-
-No glassmorphism.
-
-No neon colors.
-
-Keep everything aligned exactly like GitHub.
-
-Use GitHub Readme Stats.
-
-Use Readme Activity Graph.
-
-Use Readme Streak Stats.
-
-Use Repository Cards.
-
-Use Shields.io badges.
-
-Use Markdown only.
-
-The final README should look almost identical to a real GitHub profile page shown in the screenshot.
-
-Generate a complete README.md that is ready to paste into GitHub.
-
-Do not use placeholder text except for the profile information.
-
-I will replace:
-- Name
-- Username
-- Profile photo
-- Social links
-- Repository links
-- Email
+🌐 Connect With Me
+Include stylish social icons for:
+- LinkedIn
+- GitHub
+- Gmail
 - Portfolio
+- LeetCode
+- HackerRank
+
+📈 Profile Views
+Include:
+- Visitor Counter
+- Followers Badge
+- Stars Badge
+
+🎯 Fun Fact
+Add a fun coding-related quote.
+
+💡 Quote of the Day
+Include an inspiring software engineering quote.
+
+🎨 Design Requirements
+- Center everything
+- Use colorful shields.io badges
+- Use SVG animations
+- Add GIFs related to coding
+- Use collapsible sections
+- Glassmorphism style
+- Gradient headers
+- Neon color theme
+- Professional spacing
+- Responsive Markdown
+- Premium GitHub profile style
+- Dark theme compatible
+- Attractive emojis
+- Proper alignment
+- Modern fonts
+- Clean formatting
+
+The README should be over 350 lines long, recruiter-friendly, ATS-friendly, visually stunning, and ready to paste directly into GitHub.
