@@ -4,15 +4,13 @@
 
 ### 🎓 BE Student (2026) • 💻 Java Full Stack Developer • 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Frontend+Developer;Backend+Developer;React+%7C+Spring+Boot+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pragatikgurav&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/pragatikgurav?label=Followers&style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/pragatikgurav?affiliations=OWNER&style=for-the-badge"/>
 </p>
-
-</div>
 
 ---
 
