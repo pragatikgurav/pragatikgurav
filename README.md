@@ -1,71 +1,244 @@
-# 👋 Hi, I'm Pragati Gurav
+Create a GitHub Profile README that looks exactly like a professional GitHub profile page.
 
-### 🎓 B.E. Computer Science Graduate (2026)
+The layout should closely match the screenshot.
 
-### ☕ Java Developer | 💻 Full Stack Developer | 🚀 Open to Work
+──────────────────────────────────────────────
 
----
+LEFT SIDE
 
-## 💫 About Me
+• Circular Profile Photo
+• Full Name
+• GitHub Username
+• Follow Button
+• Followers
+• Following
+• Achievements Badge
 
-🎓 Bachelor of Engineering (B.E.) graduate in Computer Science (2026).
+──────────────────────────────────────────────
 
-💻 Passionate about Java programming and Full Stack Web Development.
+RIGHT SIDE
 
-🌱 Continuously learning new technologies and improving my development skills.
+Create one large bordered box with the following sections.
 
-🚀 Interested in building user-friendly, efficient, and scalable web applications.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👋 About Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎯 Seeking opportunities as a Java Developer, Full Stack Developer, or Software Engineer to contribute, learn, and grow.
+Write 4 bullet points with emojis.
 
----
+Example:
 
-## 💻 Technical Skills
+👩‍💻 MERN Stack & Java Full Stack Developer passionate about building scalable web applications.
 
-### Programming Languages
+🎓 Bachelor of Engineering (Computer Science) | 2026 Graduate.
 
-* Java
-* HTML
-* CSS
-* JavaScript
-* SQL
+💡 Skilled in React, Java, Spring Boot, Node.js, MongoDB and MySQL.
 
-### Frameworks & Libraries
+🚀 Currently learning AI, Spring Security and modern backend technologies.
 
-* React.js
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 Socials
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Tools
+Create colorful badge buttons for
 
-* Git
-* GitHub
-* VS Code
-* Eclipse IDE
+Instagram
 
----
+LinkedIn
 
-## 🌱 Currently Learning
+GitHub
 
-* Spring Boot
-* REST APIs
-* JDBC
-* MySQL
+Portfolio
 
----
+Gmail
 
-## 🎯 Career Objective
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠 Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> To begin my career in a challenging and growth-oriented organization where I can apply my technical knowledge, develop innovative software solutions, and continuously enhance my skills as a Software Engineer.
+Display colorful shields.io badges exactly like a professional GitHub profile.
 
----
+Frontend
 
-## 📫 Connect With Me
+HTML5
 
-📧 **Email:** [pragatikgurav@gmail.com](mailto:pragatikgurav@gmail.com)
+CSS3
 
-💼 **LinkedIn:** https://www.linkedin.com/in/pragatikgurav
+JavaScript
 
-🐱 **GitHub:** https://github.com/pragatikgurav
+React
 
----
+Bootstrap
 
-⭐ **Thank you for visiting my profile!**
+Tailwind CSS
+
+Backend
+
+Java
+
+Spring Boot
+
+Node.js
+
+Express.js
+
+Database
+
+MySQL
+
+MongoDB
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Postman
+
+IntelliJ IDEA
+
+Deployment
+
+Vercel
+
+Netlify
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 GitHub Stats
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Display
+
+GitHub Stats
+
+GitHub Streak
+
+Most Used Languages
+
+inside the bordered box.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Below the box create
+
+Popular repositories
+
+Display six repository cards exactly like GitHub.
+
+Project 1
+
+TaskBuddy
+
+Project 2
+
+Weather App
+
+Project 3
+
+Portfolio Website
+
+Project 4
+
+Student Management System
+
+Project 5
+
+Bank Management System
+
+Project 6
+
+AI Chatbot
+
+Each repository card should show
+
+Repository Name
+
+Short Description
+
+Language
+
+Stars
+
+Forks
+
+Public Badge
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Below that display
+
+GitHub Contribution Calendar
+
+using the standard GitHub green contribution graph.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Below that display
+
+Contribution Activity
+
+showing
+
+Recent commits
+
+Repositories contributed to
+
+Timeline
+
+Exactly like the GitHub profile page.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Design Requirements
+
+Match GitHub Dark Theme.
+
+Use bordered cards.
+
+Minimal design.
+
+Professional spacing.
+
+GitHub-like fonts.
+
+Small colorful badges.
+
+Simple emojis.
+
+No fancy gradients.
+
+No glassmorphism.
+
+No neon colors.
+
+Keep everything aligned exactly like GitHub.
+
+Use GitHub Readme Stats.
+
+Use Readme Activity Graph.
+
+Use Readme Streak Stats.
+
+Use Repository Cards.
+
+Use Shields.io badges.
+
+Use Markdown only.
+
+The final README should look almost identical to a real GitHub profile page shown in the screenshot.
+
+Generate a complete README.md that is ready to paste into GitHub.
+
+Do not use placeholder text except for the profile information.
+
+I will replace:
+- Name
+- Username
+- Profile photo
+- Social links
+- Repository links
+- Email
+- Portfolio
