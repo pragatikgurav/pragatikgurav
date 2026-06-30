@@ -4,12 +4,6 @@
 
 ### 🎓 BE Student (2026) • 💻 Java Full Stack Developer • 🚀 Tech Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pragatikgurav&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/pragatikgurav?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pragatikgurav?affiliations=OWNER&style=for-the-badge" alt="Stars"/>
-</p>
-
 </div>
 
 ---
