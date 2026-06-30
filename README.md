@@ -1,63 +1,93 @@
-### Hi 👋 I'm Pragati Gurav
+<div align="center">
 
-🎓 BE Student (2026) • 💻 Java Full Stack Developer • 🚀 Tech Enthusiast
+# Hi 👋 I'm Pragati Gurav
 
-### About Me
+### 🎓 BE Student (2026) • 💻 Java Full Stack Developer • 🚀 Tech Enthusiast
 
-* 🎓 Bachelor of Engineering (Graduating 2026)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pragatikgurav&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/pragatikgurav?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pragatikgurav?affiliations=OWNER&style=for-the-badge" alt="Stars"/>
+</p>
 
-* 💻 Aspiring Java Full Stack Developer
+</div>
 
-* 🌱 Currently learning Spring Boot, React.js & System Design
+---
 
-* 🚀 Passionate about building modern web applications
+## 👩‍💻 About Me
 
-* 📚 Interested in Backend Development & REST APIs
+* 🎓 **Education:** Bachelor of Engineering (Graduating 2026)
+* 💻 **Role:** Aspiring Java Full Stack Developer
+* 🌱 **Currently Learning:** Spring Boot, React.js & System Design
+* 🚀 **Passion:** Passionate about building modern web applications
+* 📚 **Interests:** Backend Development & REST APIs
+* 🤝 **Opportunities:** Open to Internship & Fresher Roles
+* ⚡ **Fun Fact:** Love solving coding challenges and learning new technologies
 
-* 🤝 Looking for Internship & Fresher Opportunities
+---
 
-* ⚡ Love solving coding challenges and learning new technologies
+## 🚀 Tech Stack
 
-### Tech Stack
+### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript" alt="Languages"/>
+  </a>
+</p>
 
-### Languages
+### 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend"/>
+  </a>
+</p>
 
-![Using Sentry - Error Monitoring with Ionic Angular Applications | Enappd](https://images.openai.com/static-rsc-4/w5PH14PIPJVZf-rmVTvE1m5pGUlVAkxx3jZTEi55apxmq7OfWI-SXe9zT6XwfQG2mS6t1UkXYR8s9vkJPZm8xFZJCxI3El8ePmAcmZ1vgcWqfIC1I99hOX9so3YmJWikVWii5pZNcWm5kchlY_HDantRNE6H1gouXccdxiMTqzgenvAEI6KzZiwC-Za0ainL?purpose=fullsize)
+### 🗄️ Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
+  </a>
+</p>
 
-### Frontend
+### 🛠️ Tools & IDEs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Tools"/>
+  </a>
+</p>
 
-### Database
+---
 
-![Development, mysql, Logo, Code icon](https://images.openai.com/static-rsc-4/BrU6suBKTsQcIyqKiS5rOrZ0yMUARoowypKTDE2K1tKbOkb69iy1lHJVLcMmDvWe3SS87VZEr5sUiVw5_aFgHnHUCgLE3DgRLJqFhklAIvF9fc0tZXmMaEOevUy6Phx9ERK0B10yPbmkEt_PudZs6d4mFFB3LXNQQXTcONL8ytxyedpo5KunVAe_ukaSZDUw?purpose=fullsize)
+## 🌐 Connect With Me
 
-### Tools & IDE
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pragatikgurav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-![VSCodeをgitとGitHubと連携してみる for Mac｜游貴](https://images.openai.com/static-rsc-4/Kv3cuuxkYz2CiuhRSOz_DIOKhY-AtKyz9V1FgFA3pV3kPH19ygI3SRYGx68mwi7niD370jMpKfLMke3tqWLfYGxX58NiQsHifjLNx7LDI4iv2WLcbEc39X3vXZ6lstBiDAE_nW_qydPO7xmkFdlolMeDo-3gPnxL5PCe75oRcdWJ9kUVnPIja5cH9s8CBvPj?purpose=fullsize)
+---
 
-### Connect With Me
+## 💡 Quote
 
-LinkedIn
+> **"Code. Learn. Build. Repeat." 🚀**
 
-Add your profile link
+---
 
-GitHub
+<div align="center">
 
-Add your GitHub link
+### ⭐ Thank You for Visiting!
+#### 💖 If you like my work, don't forget to star my repositories.
 
-Gmail
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" alt="Footer"/>
 
-Add your email address
-
-Portfolio
-
-Add your portfolio link
-
-### Quote
-
-### “Code. Learn. Build. Repeat.” 🚀
-
-Keep growing one project at a time ✨
-
-### Thank You for Visiting!
-
-💖 If you like my work, don't forget to ⭐ my repositories.
+</div>
