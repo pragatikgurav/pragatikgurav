@@ -36,27 +36,27 @@
 
 ## 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,javascript"/>
-</p>
+                            <p align="left">
+                            <img src="https://skillicons.dev/icons?i=java,javascript"/>
+                            </p>
 
 ## 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
+                              <p align="left">
+                              <img src="https://skillicons.dev/icons?i=html,css,react"/>
+                              </p>
 
 ## 🗄️ Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+                              <p align="left">
+                              <img src="https://skillicons.dev/icons?i=mysql"/>
+                              </p>
 
 ## 🛠 Tools & IDE
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
-</p>
+                                  <p align="left">
+                                  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
+                                  </p>
 
 
 
