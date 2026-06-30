@@ -26,12 +26,11 @@
 
 ## ⚡ About Me
 
-> **Driven by a curiosity to build, solve problems, and optimize web experiences.** 
 
 *   🎓 **Education:** Computer Science Engineering Graduate from **VSM's Somashekhar R. Kothiwale Institute of Technology, Nipani**.
 *   🚀 **Current Focus:** Leveling up at **KodNest**, completing comprehensive training in **Full Stack Java Development**.
 *   🌱 **My Goal:** To step into the software industry as a junior engineer where I can contribute to clean code architectures while learning from seasoned professionals.
-*   💬 **Let's connect if you want to talk about:** Java structures, frontend UI designs, or database querying!
+
 
 ---
 
@@ -68,48 +67,6 @@
 </table>
 
 ---
-
-## 📂 Featured Applications
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/pragatikgurav?tab=repositories">Full-Stack Application</a></h3>
-      <p><em>A functional web application combining a structured relational SQL database back-end with a smooth, responsive dynamic front-end user experience.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-Backend-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/pragatikgurav?tab=repositories">Interactive React Dashboard</a></h3>
-      <p><em>An application focusing heavily on component modularity, fluid state management, and sharp CSS rendering.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Dev Insights & Coding Metrics
-
-<p align="center">
-  <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/u/pragatikgurav/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=pragatikgurav&theme=dark" alt="LeetCode Stats" width="48%" />
-  </a>
-  <!-- GitHub Language Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatikgurav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Overall GitHub Profile Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pragatikgurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
-</p>
-
 ### 🗓️ Code Commit Activity
 
 <p align="center">
