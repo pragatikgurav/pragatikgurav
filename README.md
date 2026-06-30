@@ -33,31 +33,31 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ☁️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Ecllips EDA" />
 </p>
 
 ---
@@ -76,10 +76,6 @@
 
 <a href="pragatikgurav@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://portfolio-link.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -106,28 +102,9 @@
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
