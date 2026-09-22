@@ -68,18 +68,6 @@
 
 ---
 
-### 🗓️ Code Commit Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pragatikgurav&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Pragati Gurav's GitHub Contribution Graph"
-  />
-</p>
-
----
-
 <!-- FOOTER START -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=footer" width="100%" alt="Footer Wave" />
