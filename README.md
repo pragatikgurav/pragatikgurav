@@ -71,7 +71,11 @@
 ### 🗓️ Code Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatikgurav&theme=github-dark" width="100%" alt="GitHub Activity Graph">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pragatikgurav&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Pragati Gurav's GitHub Contribution Graph"
+  />
 </p>
 
 ---
